@@ -17,7 +17,6 @@ INITIAL = [0, 0, 0, 0, 0, 0, 0, 0, 0]
 class Board:
     def __init__(self, board):
         self.board = board
-        self.value = 0
 
     def is_over(self):
         if self.board.count(1) + self.board.count(2) > 8:
