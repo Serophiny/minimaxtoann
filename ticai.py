@@ -1,10 +1,7 @@
-from __future__ import division
 from keras.models import Sequential, model_from_json
 from keras.layers import Dense, Dropout
 from keras.utils import to_categorical
-import numpy as np
 import random
-import time
 
 
 # Minimax: 1
