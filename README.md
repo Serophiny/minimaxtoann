@@ -1,4 +1,4 @@
-### Train ANN with Minimax algorithm
+### Train ANN with Minimax algorithm for Tic-Tac-Toe
 
 Tested with: Python 2.7 & 3.7
 
